@@ -26,35 +26,35 @@ const About = () => {
           {/* <!-- Text Section --> */}
           <div className="text-left md:max-w-md lg:max-w-lg">
             {/* <!-- Title --> */}
-            <h2 className="text-3xl font-bold text-gray-800 mb-4 text-[#FF9500]">
+            <h2 className="text-3xl font-bold mb-4 text-[#FF9500]">
               Shigora
             </h2>
 
             {/* <!-- Description --> */}
-            <p className="text-gray-600 mb-4 text-[14px] lg:text-[16px]">
+            <p className="text-gray-600 mb-4 text-[14px] ">
               <strong>Shigora</strong> stands at the forefront of real estate in Dholera SIR – India&apos;s groundbreaking Greenfield smart city. Specializing in residential, industrial, and commercial land transactions, we offer exceptional service and expert guidance to navigate Dholera&apos;s dynamic property market.
             </p>
 
             {/* <!-- Residential Land Description --> */}
-            <p className="text-gray-600 mb-4 text-[14px] lg:text-[16px]">
+            <p className="text-gray-600 mb-4 text-[14px] ">
               <strong>Residential Land and Plot:</strong> Whether you&apos;re eyeing a plot for future development or searching for the perfect site to build your dream home, Shigora presents a diverse array of residential land options tailored to your vision.
             </p>
 
             {/* <!-- Commercial Land Description --> */}
-            <p className="text-gray-600 mb-4 text-[14px] lg:text-[16px]">
+            <p className="text-gray-600 mb-4 text-[14px] ">
               <strong>Commercial Land:</strong> From vibrant retail spaces to state-of-the-art office complexes, Shigora excels in facilitating commercial land transactions, ensuring businesses secure prime locations within the thriving Dholera Smart City.
             </p>
 
             {/* <!-- Industrial Land Description --> */}
-            <p className="text-gray-600 mb-4 text-[14px] lg:text-[16px]">
+            <p className="text-gray-600 mb-4 text-[14px] ">
               <strong>Industrial Land:</strong>  As Dholera Smart City emerges as a hub of industrial growth, Shigora is your partner in identifying and acquiring strategic industrial land, complete with optimal infrastructure and growth potential for your enterprise.
             </p>
              {/* <!-- Industrial Land Description --> */}
-            <p className="text-gray-600 mb-4 text-[14px] lg:text-[16px]">
+            <p className="text-gray-600 mb-4 text-[14px] ">
              <strong>Tourism Land:</strong>
 With Dholera SIR poised to become a tourism hotspot, Shigora helps investors capitalize on this growth by providing access to prime tourism land for hotels, resorts, and other tourism-driven developments, setting the stage for high returns.
 </p>
-   <p className="text-gray-600 mb-4 text-[14px] lg:text-[16px]">         
+   <p className="text-gray-600 mb-4 text-[14px] ">         
  <strong>Sports and Recreation Land:</strong>
 As part of a forward-thinking city, Dholera offers abundant opportunities for sports and recreational projects. Shigora assists clients in acquiring land specifically for the development of sports complexes, arenas, and recreational facilities, enabling you to contribute to the city&apos;s vibrant lifestyle and wellness infrastructure.
 </p>
