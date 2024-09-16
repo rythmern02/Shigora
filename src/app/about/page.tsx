@@ -56,7 +56,7 @@ With Dholera SIR poised to become a tourism hotspot, Shigora helps investors cap
 </p>
    <p className="text-gray-600 mb-4">         
  <strong>Sports and Recreation Land:</strong>
-As part of a forward-thinking city, Dholera offers abundant opportunities for sports and recreational projects. Shigora assists clients in acquiring land specifically for the development of sports complexes, arenas, and recreational facilities, enabling you to contribute to the city's vibrant lifestyle and wellness infrastructure.
+As part of a forward-thinking city, Dholera offers abundant opportunities for sports and recreational projects. Shigora assists clients in acquiring land specifically for the development of sports complexes, arenas, and recreational facilities, enabling you to contribute to the city&apos;s vibrant lifestyle and wellness infrastructure.
 </p>
             {/* <!-- Read More Button --> */}
             <Link
