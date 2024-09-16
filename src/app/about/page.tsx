@@ -32,12 +32,12 @@ const About = () => {
 
             {/* <!-- Description --> */}
             <p className="text-gray-600 mb-4">
-              <strong>Shigora</strong> stands at the forefront of real estate in Dholera SIR – India's groundbreaking Greenfield smart city. Specializing in residential, industrial, and commercial land transactions, we offer exceptional service and expert guidance to navigate Dholera’s dynamic property market.
+              <strong>Shigora</strong> stands at the forefront of real estate in Dholera SIR – India&apos;s groundbreaking Greenfield smart city. Specializing in residential, industrial, and commercial land transactions, we offer exceptional service and expert guidance to navigate Dholera&apos;s dynamic property market.
             </p>
 
             {/* <!-- Residential Land Description --> */}
             <p className="text-gray-600 mb-4">
-              <strong>Residential Land and Plot:</strong> Whether you’re eyeing a plot for future development or searching for the perfect site to build your dream home, Shigora presents a diverse array of residential land options tailored to your vision.
+              <strong>Residential Land and Plot:</strong> Whether you&apos;re eyeing a plot for future development or searching for the perfect site to build your dream home, Shigora presents a diverse array of residential land options tailored to your vision.
             </p>
 
             {/* <!-- Commercial Land Description --> */}
