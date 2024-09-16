@@ -84,7 +84,7 @@ const AboutUs = () => {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
             <div>
               <img
-                src="room3.png"
+                src="1ST.png"
                 alt="Icon 1"
                 className="mx-auto mb-2 w-12 h-12"
               />
@@ -92,7 +92,7 @@ const AboutUs = () => {
             </div>
             <div>
               <img
-                src="real-e.png"
+                src="2ND.png"
                 alt="Icon 2"
                 className="mx-auto mb-2 w-12 h-12"
               />
@@ -102,7 +102,7 @@ const AboutUs = () => {
             </div>
             <div>
               <img
-                src="room2.png"
+                src="3RD.png"
                 alt="Icon 3"
                 className="mx-auto mb-2 w-12 h-12"
               />
@@ -112,7 +112,7 @@ const AboutUs = () => {
             </div>
             <div>
               <img
-                src="room1.png"
+                src="4TH.png"
                 alt="Icon 4"
                 className="mx-auto mb-2 w-12 h-12"
               />
