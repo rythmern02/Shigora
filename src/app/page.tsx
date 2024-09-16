@@ -38,7 +38,7 @@ export default function Home() {
             {/* <!-- Residential Land Card --> */}
             <div className="flex flex-col items-center">
               <img
-                src="building.png"
+                src="residential.jpg"
                 alt="Residential Land"
                 className="w-[250px] h-[250px] object-contain mb-4"
               />
@@ -51,7 +51,7 @@ export default function Home() {
             {/* <!-- Commercial Land Card --> */}
             <div className="flex flex-col items-center">
               <img
-                src="room3.png"
+                src="commercial.jpg"
                 alt="Commercial Land"
                 className="w-[250px] h-[250px] object-contain mb-4"
               />
@@ -64,7 +64,7 @@ export default function Home() {
             {/* <!-- Industrial Land Card --> */}
             <div className="flex flex-col items-center">
               <img
-                src="real-e.png"
+                src="industrial.jpg"
                 alt="Industrial Land"
                 className="w-[250px] h-[250px] object-contain mb-4"
               />
