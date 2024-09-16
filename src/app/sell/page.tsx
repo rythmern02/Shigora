@@ -114,7 +114,7 @@ const SellingPage: React.FC = () => {
               <h3 className="text-xl font-semibold text-gray-800">
                 Make a Call
               </h3>
-              <p className="text-sm text-gray-600">+91 90611 50911</p>
+              <p className="text-sm text-gray-600">+91 99819 96629 </p>
               <p className="text-sm text-gray-600">Mon - Sat: 09am - 08pm</p>
             </div>
 
@@ -123,7 +123,7 @@ const SellingPage: React.FC = () => {
               <h3 className="text-xl font-semibold text-gray-800">
                 Send a Mail
               </h3>
-              <p className="text-sm text-gray-600">sell@w9properties.com</p>
+              <p className="text-sm text-gray-600">archnagrani@gmail.com</p>
             </div>
           </div>
         </div>
