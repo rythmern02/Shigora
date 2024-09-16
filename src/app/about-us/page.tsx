@@ -33,41 +33,28 @@ const AboutUs = () => {
 
               <div className="mb-4">
                 <h3 className="text-blue-600 text-xl font-semibold">
-                  Expert Guidance:
+                  Personalized Property Solutions:
                 </h3>
                 <p className="text-gray-700">
-                  Mr. Vishal Prajapati, our esteemed Managing Director, offers
-                  expert guidance for all investments in Dholera SIR...
+                  At Shigora, we understand that every property transaction is unique. Our expert team listens to your specific requirements and offers tailored real estate solutions, ensuring that your goals are met with precision, whether you're buying, selling, or investing.
                 </p>
               </div>
 
               <div className="mb-4">
                 <h3 className="text-blue-600 text-xl font-semibold">
-                  Tailored Solutions:
+                Clarity and Integrity:
                 </h3>
                 <p className="text-gray-700">
-                  We understand that every client&#39;s needs are unique. Our
-                  personalized approach ensures that...
+                 Transparency is at the heart of our service. We provide clear, concise information every step of the way, so you can make well-informed decisions with complete confidence, knowing that you're always getting an honest deal.
                 </p>
               </div>
 
               <div className="mb-4">
                 <h3 className="text-blue-600 text-xl font-semibold">
-                  Transparency:
+Unwavering Commitment to Your Success:
                 </h3>
                 <p className="text-gray-700">
-                  We prioritize transparency in all our dealings, providing
-                  clear and honest insights...
-                </p>
-              </div>
-
-              <div className="mb-4">
-                <h3 className="text-blue-600 text-xl font-semibold">
-                  Commitment to Excellence:
-                </h3>
-                <p className="text-gray-700">
-                  Committed to excellence in service delivery, W9 Properties
-                  strives to exceed client expectations...
+                At Shigora, we are not just focused on transactions; we are dedicated to creating lasting value for our clients. Whether you're in the market for commercial spaces, residential properties, or land investments, our commitment to excellence ensures that your experience is seamless and rewarding. Join us as we guide you through the ever-evolving real estate market, helping you turn opportunities into tangible success.
                 </p>
               </div>
             </div>
