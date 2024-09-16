@@ -13,8 +13,24 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      fontFamily: {
+        anton: ["Anton", "sans-serif"],
+        inter: ['Inter', 'sans-serif'],
+        antonio: ['var(--antonio-font)', 'sans-serif'],
+      },
+      colors: {
+        darkYellow: '#FFC107', // Adjust the shade as needed
+        darkGray: '#333',
+        lightGray: '#f7f7f7',
+        classicYellow: '#FFD700', // Classic Yellow
+        borderYellow: '#FFA500',  // Border Yellow
+        
+
+      },
     },
   },
-  plugins: [],
+  plugins: [ 
+    require('@tailwindcss/forms'),
+  ],
 };
 export default config;
