@@ -28,7 +28,7 @@ const SellingPage: React.FC = () => {
             <h3 className="text-xl font-semibold text-gray-800">
               Get in Touch
             </h3>
-            <p className="text-lg font-bold text-red-500">
+            <p className="text-lg font-bold text-[#FF9500]">
               Land Parcel Write Down And Send Us
             </p>
           </div>
@@ -51,7 +51,7 @@ const SellingPage: React.FC = () => {
                 <button className="bg-gray-200 text-gray-700 px-4 py-2 rounded-l-md">
                   ગુજરાતી
                 </button>
-                <button className="bg-red-500 text-white px-4 py-2 rounded-r-md">
+                <button className="bg-[#FF9500] text-white px-4 py-2 rounded-r-md">
                   English
                 </button>
               </div>
@@ -68,7 +68,7 @@ const SellingPage: React.FC = () => {
             <h3 className="text-xl font-semibold text-gray-800">
               Get in Touch
             </h3>
-            <p className="text-lg font-bold text-red-500">
+            <p className="text-lg font-bold text-[FF9500]">
               Residential Plot Write Down And Send Us
             </p>
           </div>
