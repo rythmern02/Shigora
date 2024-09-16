@@ -47,14 +47,6 @@ const SellingPage: React.FC = () => {
             </div>
             {/* Form */}
             <div className="w-full lg:w-1/2 rounded-lg px-10">
-              <div className="flex justify-end">
-                <button className="bg-gray-200 text-gray-700 px-4 py-2 rounded-l-md">
-                  ગુજરાતી
-                </button>
-                <button className="bg-[#FF9500] text-white px-4 py-2 rounded-r-md">
-                  English
-                </button>
-              </div>
               <SellLandForm />
             </div>
           </div>
