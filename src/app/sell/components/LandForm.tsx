@@ -148,7 +148,7 @@ const SellLandForm: React.FC = () => {
         onChange={handleFileChange}
       />
       {filePreview && <img src={filePreview} alt="File preview" className="mt-2" />}
-      <button type="submit" className="bg-red-500 text-white w-full py-2 rounded-md hover:bg-red-600">
+      <button type="submit" className="bg-[#FF9500] text-white w-full py-2 rounded-md hover:bg-yellow-800">
         Submit
       </button>
     </form>
