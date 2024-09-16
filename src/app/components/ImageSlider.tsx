@@ -53,7 +53,7 @@ export function ImageSlider({ images }: ImageSliderProps) {
               width: "100%",
               height: "100%",
               transform: `translateX(${-100 * imageIndex}%)`,
-              backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(${url})`,
+              backgroundImage: `url(${url})`,
               backgroundPosition: 'center',
               backgroundSize: 'cover',
               transition: "transform 2s ease",
