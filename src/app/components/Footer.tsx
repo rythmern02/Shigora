@@ -40,7 +40,7 @@ const Footer = () => {
                 </svg>
               </div>
               <div className="ml-[18px]">
-                <a href="tel:+911800123444" className="font-Inter text-[14px] font-medium text-white">+91 1800123444</a>
+                <a href="tel:+919981996629" className="font-Inter text-[14px] font-medium text-white">+91 9981996629</a>
                 <p className="font-Inter text-[12px] font-medium text-white">Support Number</p>
               </div>
             </div>
@@ -54,7 +54,7 @@ const Footer = () => {
                 </svg>
               </div>
               <div className="ml-[18px]">
-                <a href="mailto:support@web.com" className="font-Inter text-[14px] font-medium text-white">support@web.com</a>
+                <a href="mailto:support@web.com" className="font-Inter text-[14px] font-medium text-white">archnagrani@gmail.com</a>
                 <p className="font-Inter text-[12px] font-medium text-white">Support Email</p>
               </div>
             </div>
