@@ -9,6 +9,7 @@ const HomePage = () => {
     { url: "/room1.png", alt: "Car Three" },
     { url: "/room2.png", alt: "Car Four" },
     { url: "/room1.png", alt: "Car Five" },
+    { url: "/abcd.png", alt: "Car Five" },
   ];
   return (
     <div className="relative w-full h-[50vh]">
