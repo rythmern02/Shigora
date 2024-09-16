@@ -36,7 +36,7 @@ const AboutUs = () => {
                   Personalized Property Solutions:
                 </h3>
                 <p className="text-gray-700">
-                  At Shigora, we understand that every property transaction is unique. Our expert team listens to your specific requirements and offers tailored real estate solutions, ensuring that your goals are met with precision, whether you're buying, selling, or investing.
+                  At Shigora, we understand that every property transaction is unique. Our expert team listens to your specific requirements and offers tailored real estate solutions, ensuring that your goals are met with precision, whether you&apos;re buying, selling, or investing.
                 </p>
               </div>
 
@@ -45,7 +45,7 @@ const AboutUs = () => {
                 Clarity and Integrity:
                 </h3>
                 <p className="text-gray-700">
-                 Transparency is at the heart of our service. We provide clear, concise information every step of the way, so you can make well-informed decisions with complete confidence, knowing that you're always getting an honest deal.
+                 Transparency is at the heart of our service. We provide clear, concise information every step of the way, so you can make well-informed decisions with complete confidence, knowing that you&apos;re always getting an honest deal.
                 </p>
               </div>
 
@@ -54,7 +54,7 @@ const AboutUs = () => {
 Unwavering Commitment to Your Success:
                 </h3>
                 <p className="text-gray-700">
-                At Shigora, we are not just focused on transactions; we are dedicated to creating lasting value for our clients. Whether you're in the market for commercial spaces, residential properties, or land investments, our commitment to excellence ensures that your experience is seamless and rewarding. Join us as we guide you through the ever-evolving real estate market, helping you turn opportunities into tangible success.
+                At Shigora, we are not just focused on transactions; we are dedicated to creating lasting value for our clients. Whether you&apos;re in the market for commercial spaces, residential properties, or land investments, our commitment to excellence ensures that your experience is seamless and rewarding. Join us as we guide you through the ever-evolving real estate market, helping you turn opportunities into tangible success.
                 </p>
               </div>
             </div>
