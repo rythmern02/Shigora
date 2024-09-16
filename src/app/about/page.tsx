@@ -6,7 +6,7 @@ const About = () => {
     <div className="xl:min-h-full bg-offWhite text-deepBrown">
       <div className="max-w-7xl mx-auto py-10 px-0 md:px-12 ">
         {/* <!-- About Us Section --> */}
-        <section className="bg-white py-10 px-5 md:px-10 flex flex-col md:flex-row items-center gap-10">
+        <section className="bg-white py-10 px-5 md:px-5 flex flex-col md:flex-row items-center gap-10">
           {/* <!-- Images Section --> */}
           <div className="flex flex-col gap-5">
             <img
